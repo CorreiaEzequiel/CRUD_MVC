@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Web_Crud_SqlServer.props" />
+</Project>
